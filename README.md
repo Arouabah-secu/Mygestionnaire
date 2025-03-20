@@ -1,3 +1,7 @@
+lien de la video explicative : https://youtu.be/TODH3Fd9YsA
+
+
+
 # GestParc - Scripts de gestion réseau
 
 Ce dépôt contient plusieurs scripts Bash permettant la gestion et la vérification d'équipements réseau. Ces outils sont conçus pour faciliter l'administration d'un parc informatique en automatisant certaines tâches courantes.
